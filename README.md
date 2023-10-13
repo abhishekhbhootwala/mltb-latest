@@ -171,7 +171,7 @@ In each single file there is a major change from base code, it's almost totally 
 - Clone this repo:
 
 ```
-git clone https://github.com/anasty17/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot
+git clone https://github.com/abhishekhbhootwala/mltb-latest mirrorbot/ && cd mirrorbot
 ```
 
 - For Debian based distros
